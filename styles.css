@@ -17,12 +17,14 @@ html {
 @media screen and (min-width: 720px) {
   div.painting {
     max-width: 800px;
+    height: 60vh;
     margin: auto;
   }
 }
 @media screen and (min-width: 360px) and (max-width: 414px) {
   div.painting {
     max-width: 100vw;
+    height: 60vh;
   }
 }
 body {
@@ -123,7 +125,7 @@ hr {
   height: 70px;
   background-color: var(--feathers);
   position: absolute;
-  top: 100px;
+  top: 95px;
   left: 250px;
   border-radius: 40%;
   border: 1px solid gray;
