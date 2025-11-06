@@ -219,7 +219,7 @@ hr {
   border-bottom-left-radius: 60%;
   border-bottom-right-radius: 20%;
   transform: rotate(-20deg) skewX(7deg);
-  z-index: 3;
+  z-index: 4;
   box-shadow: 3px 3px 4px;
 }
 .wing-right {
